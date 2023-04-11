@@ -1,0 +1,79 @@
+#root {
+    background-color: rgb(206, 203, 209);
+    padding-top: 3vh;
+    height:97.5vh;
+    -webkit-box-shadow:7px 7px 5px 0px rgba(240, 232, 232, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(240, 232, 232, 0.75);
+    box-shadow: 7px 7px 7px 0px rgba(240, 232, 232, 0.75);
+  }
+  
+  .container {
+    margin:auto;
+    height: 69vh;
+    width: 40.3vh;
+    background-color: #333;
+    border-radius: 4vh 4vh 2.5vh 2.5vh;
+    padding: 1rem;
+    /* -webkit-box-shadow:7px 7px 5px 0px rgba(240, 232, 232, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(240, 232, 232, 0.75); */
+    box-shadow: 7px 7px 7px 0px rgba(240, 232, 232, 0.75);
+  }
+  
+  
+  .calc{
+    width: 39vh;
+    margin: 7.5vh 0.7vh 0.7vh 0.7vh;
+  
+  
+  }
+  
+  #answer {
+    border-radius: 1vh;
+    background-color: #EEE9E0;
+    margin-top: 4vh;
+    padding: 1.5vh;
+    padding-left: 2vh;
+    font-size: 3.5vh;
+    width: 34.6vh;
+    height: 5.6vh;
+    text-align: right;
+    /* -webkit-box-shadow:7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 7px 7px 7px 0px rgba(50, 50, 50, 0.75); */
+  }
+  
+  .button {
+    background: silver;
+    height: 9vh;
+    width: 9vh;
+    color: white;
+    font-size: 3vh;
+    border: 1px solid silver;
+    float: left;
+    margin: 0.3vh;
+    border-radius:1vh;
+  }
+  
+  .button1 {
+    width: 9vh;
+    background: #FFB833;
+    height: 9vh;
+    color: white;
+    font-size: 3vh;
+    border: 1px solid silver;
+    float: left;
+    margin: 0.3vh;
+    border-radius: 1vh;
+  }
+  
+  .button2 {
+    width: 18.7vh;
+    background: #FFB833;
+    height: 9vh;
+    color: white;
+    font-size: 3vh;
+    border: 1px solid silver;
+    float: left;
+    margin: 0.3vh;
+    border-radius: 1vh;
+  }
